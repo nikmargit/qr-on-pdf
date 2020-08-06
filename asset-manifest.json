@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/qr-on-pdf/static/css/main.6c46d1b9.chunk.css",
+    "main.js": "/qr-on-pdf/static/js/main.15f4a387.chunk.js",
+    "main.js.map": "/qr-on-pdf/static/js/main.15f4a387.chunk.js.map",
+    "runtime-main.js": "/qr-on-pdf/static/js/runtime-main.d9b57fb8.js",
+    "runtime-main.js.map": "/qr-on-pdf/static/js/runtime-main.d9b57fb8.js.map",
+    "static/css/2.9c8c8187.chunk.css": "/qr-on-pdf/static/css/2.9c8c8187.chunk.css",
+    "static/js/2.2e86732f.chunk.js": "/qr-on-pdf/static/js/2.2e86732f.chunk.js",
+    "static/js/2.2e86732f.chunk.js.map": "/qr-on-pdf/static/js/2.2e86732f.chunk.js.map",
+    "index.html": "/qr-on-pdf/index.html",
+    "precache-manifest.70ba36ff061090caa7bbe4c75c6aa09a.js": "/qr-on-pdf/precache-manifest.70ba36ff061090caa7bbe4c75c6aa09a.js",
+    "service-worker.js": "/qr-on-pdf/service-worker.js",
+    "static/css/2.9c8c8187.chunk.css.map": "/qr-on-pdf/static/css/2.9c8c8187.chunk.css.map",
+    "static/css/main.6c46d1b9.chunk.css.map": "/qr-on-pdf/static/css/main.6c46d1b9.chunk.css.map",
+    "static/js/2.2e86732f.chunk.js.LICENSE.txt": "/qr-on-pdf/static/js/2.2e86732f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9b57fb8.js",
+    "static/css/2.9c8c8187.chunk.css",
+    "static/js/2.2e86732f.chunk.js",
+    "static/css/main.6c46d1b9.chunk.css",
+    "static/js/main.15f4a387.chunk.js"
+  ]
+}
