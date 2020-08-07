@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c8a61ba91e1f48ff5a565941786a1a2",
+    "revision": "db99e80e340571a94a910ecf7a96bc5d",
     "url": "/qr-on-pdf/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qr-on-pdf/static/css/2.9c8c8187.chunk.css"
   },
   {
-    "revision": "56882c9d4d070a6e773e",
+    "revision": "5d1cebd538dc39bf94de",
     "url": "/qr-on-pdf/static/css/main.31c24e73.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qr-on-pdf/static/js/2.d0090863.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56882c9d4d070a6e773e",
-    "url": "/qr-on-pdf/static/js/main.6d3892b9.chunk.js"
+    "revision": "5d1cebd538dc39bf94de",
+    "url": "/qr-on-pdf/static/js/main.f2e31f1c.chunk.js"
   },
   {
     "revision": "e789874c33233ce0364c",

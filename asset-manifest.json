@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/qr-on-pdf/static/css/main.31c24e73.chunk.css",
-    "main.js": "/qr-on-pdf/static/js/main.6d3892b9.chunk.js",
-    "main.js.map": "/qr-on-pdf/static/js/main.6d3892b9.chunk.js.map",
+    "main.js": "/qr-on-pdf/static/js/main.f2e31f1c.chunk.js",
+    "main.js.map": "/qr-on-pdf/static/js/main.f2e31f1c.chunk.js.map",
     "runtime-main.js": "/qr-on-pdf/static/js/runtime-main.d9b57fb8.js",
     "runtime-main.js.map": "/qr-on-pdf/static/js/runtime-main.d9b57fb8.js.map",
     "static/css/2.9c8c8187.chunk.css": "/qr-on-pdf/static/css/2.9c8c8187.chunk.css",
     "static/js/2.d0090863.chunk.js": "/qr-on-pdf/static/js/2.d0090863.chunk.js",
     "static/js/2.d0090863.chunk.js.map": "/qr-on-pdf/static/js/2.d0090863.chunk.js.map",
     "index.html": "/qr-on-pdf/index.html",
-    "precache-manifest.59867ce65eff030aa4303be5a3bc2c74.js": "/qr-on-pdf/precache-manifest.59867ce65eff030aa4303be5a3bc2c74.js",
+    "precache-manifest.d690a7dfcc1530c07eb55ec99cf72f6a.js": "/qr-on-pdf/precache-manifest.d690a7dfcc1530c07eb55ec99cf72f6a.js",
     "service-worker.js": "/qr-on-pdf/service-worker.js",
     "static/css/2.9c8c8187.chunk.css.map": "/qr-on-pdf/static/css/2.9c8c8187.chunk.css.map",
     "static/css/main.31c24e73.chunk.css.map": "/qr-on-pdf/static/css/main.31c24e73.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9c8c8187.chunk.css",
     "static/js/2.d0090863.chunk.js",
     "static/css/main.31c24e73.chunk.css",
-    "static/js/main.6d3892b9.chunk.js"
+    "static/js/main.f2e31f1c.chunk.js"
   ]
 }
