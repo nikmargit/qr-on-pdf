@@ -85,7 +85,12 @@ export default function ScanQr() {
       </Dragger>
       {qrData && (
         <>
-          <img src={imageUrl} height='200px' alt='qr code' />
+          <img
+            src={imageUrl}
+            height='200px'
+            alt='qr code'
+            style={{ margin: '25px 0' }}
+          />
           <Input.TextArea
             value={text}
             disabled
