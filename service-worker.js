@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/qr-on-pdf/precache-manifest.70ba36ff061090caa7bbe4c75c6aa09a.js"
+  "/qr-on-pdf/precache-manifest.ee77b0828440eb9a4a453ab7e6ea38d8.js"
 );
 
 self.addEventListener('message', (event) => {
