@@ -6,6 +6,12 @@ import { getBase64, beforeUpload } from './utilities'
 
 const { Dragger } = Upload
 
+const dummyRequest = ({ file, onSuccess }) => {
+  setTimeout(() => {
+    onSuccess('ok')
+  }, 0)
+}
+
 export default function ScanQr() {
   const [loading, setloading] = useState(false)
   const [imageUrl, setImageUrl] = useState(null)
@@ -63,7 +69,7 @@ export default function ScanQr() {
       <Dragger
         name='avatar'
         showUploadList={false}
-        action={() => {}}
+        customRequest={dummyRequest}
         beforeUpload={beforeUpload}
         onChange={handleChange}>
         <p className='ant-upload-drag-icon'>
